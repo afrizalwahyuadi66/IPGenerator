@@ -1,5 +1,5 @@
 # IPGenerator
-Jika tidak bisa melakukan savegunakan tools ini sebagai administrator atau akses root
+Jika tidak bisa melakukan save, gunakan tools ini sebagai administrator atau akses root
 
 # Installation for Linux or Termux
 
